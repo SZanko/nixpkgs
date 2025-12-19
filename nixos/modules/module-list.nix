@@ -292,6 +292,7 @@
   ./programs/plotinus.nix
   ./programs/pmount.nix
   ./programs/pqos-wrapper.nix
+  ./programs/probe-rs.nix
   ./programs/projecteur.nix
   ./programs/proxychains.nix
   ./programs/pulseview.nix

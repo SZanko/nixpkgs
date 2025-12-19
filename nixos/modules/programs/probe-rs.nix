@@ -18,7 +18,7 @@ in
     environment.systemPackages = [ pkgs.probe-rs-tools ];
     services.udev.packages = [ pkgs.probe-rs-tools-udev-rules ];
 
-    user.groups.plugdev = {};
+    users.groups.plugdev = {};
   };
 
   meta.maintainers = pkgs.probe-rs-tools.meta.maintainers;

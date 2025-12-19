@@ -9532,6 +9532,8 @@ self: super: with self; {
 
   mficlient = callPackage ../development/python-modules/mficlient { };
 
+  mfusepy = callPackage ../development/python-modules/mfusepy { };
+
   mhcflurry = callPackage ../development/python-modules/mhcflurry { };
 
   mhcgnomes = callPackage ../development/python-modules/mhcgnomes { };
@@ -9913,6 +9915,8 @@ self: super: with self; {
   monty = callPackage ../development/python-modules/monty { };
 
   monzopy = callPackage ../development/python-modules/monzopy { };
+
+  moocore = callPackage ../development/python-modules/moocore { };
 
   moonraker-api = callPackage ../development/python-modules/moonraker-api { };
 
@@ -12641,8 +12645,6 @@ self: super: with self; {
   ptpython = callPackage ../development/python-modules/ptpython { };
 
   ptyprocess = callPackage ../development/python-modules/ptyprocess { };
-
-  publicsuffix = callPackage ../development/python-modules/publicsuffix { };
 
   publicsuffix2 = callPackage ../development/python-modules/publicsuffix2 { };
 
@@ -15943,8 +15945,6 @@ self: super: with self; {
 
   qiskit-optimization = callPackage ../development/python-modules/qiskit-optimization { };
 
-  qnap-qsw = callPackage ../development/python-modules/qnap-qsw { };
-
   qnapstats = callPackage ../development/python-modules/qnapstats { };
 
   qpageview = callPackage ../development/python-modules/qpageview { };
@@ -18182,7 +18182,11 @@ self: super: with self; {
 
   streamlit-avatar = callPackage ../development/python-modules/streamlit-avatar { };
 
+  streamlit-card = callPackage ../development/python-modules/streamlit-card { };
+
   streamlit-folium = callPackage ../development/python-modules/streamlit-folium { };
+
+  streamlit-kpi-card = callPackage ../development/python-modules/streamlit-kpi-card { };
 
   streamlit-notify = callPackage ../development/python-modules/streamlit-notify { };
 
@@ -19082,8 +19086,6 @@ self: super: with self; {
   traceback2 = callPackage ../development/python-modules/traceback2 { };
 
   tracerite = callPackage ../development/python-modules/tracerite { };
-
-  tracing = callPackage ../development/python-modules/tracing { };
 
   trackpy = callPackage ../development/python-modules/trackpy { };
 

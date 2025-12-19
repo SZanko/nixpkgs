@@ -1048,11 +1048,11 @@
     "vendorHash": null
   },
   "oracle_oci": {
-    "hash": "sha256-4EeI4mA5zNW3fmc2ESiaw/SOHoVw1cevtls+IFVVxfE=",
+    "hash": "sha256-wHNR0U8z0wY878ww2e+yybYYwUCbiGWSkIcEiubfOp4=",
     "homepage": "https://registry.terraform.io/providers/oracle/oci",
     "owner": "oracle",
     "repo": "terraform-provider-oci",
-    "rev": "v7.28.0",
+    "rev": "v7.29.0",
     "spdx": "MPL-2.0",
     "vendorHash": null
   },
@@ -1165,11 +1165,11 @@
     "vendorHash": "sha256-WDyULPLN+uZ5OaE/j3FgurHbXKRU93S3nbXk8mW5dc4="
   },
   "sap_btp": {
-    "hash": "sha256-TLMEHDmjdS9zqU+WdUc9YUt7IwYmEBr3pizVDxAH1YA=",
+    "hash": "sha256-jN/tvfzVnzJTLpAriT68F2HwAS5lxL+iMU1yGR6P8ww=",
     "homepage": "https://registry.terraform.io/providers/SAP/btp",
     "owner": "SAP",
     "repo": "terraform-provider-btp",
-    "rev": "v1.18.0",
+    "rev": "v1.18.1",
     "spdx": "Apache-2.0",
     "vendorHash": "sha256-f3b4NULINH8XworCn46fiz4GmBM31ROdAJy1j4GKkx4="
   },
